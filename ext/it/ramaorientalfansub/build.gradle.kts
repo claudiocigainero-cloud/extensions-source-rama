@@ -14,4 +14,4 @@ dependencies {
     implementation(project(":multisrc:madara"))
 }
 
-apply(from = "$rootDir/common.gradle")
+apply(from = "$rootDir/common.gradle.kts")
